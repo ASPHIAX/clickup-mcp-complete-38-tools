@@ -1,0 +1,15 @@
+{
+  "name": "clickup-mcp-complete-38-tools",
+  "version": "2.0.0",
+  "description": "Complete ClickUp MCP Server - ALL 38 tools exact copy",
+  "main": "clickup-complete-modular.cjs",
+  "scripts": {
+    "start": "node clickup-complete-modular.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "author": "ASPHIAX",
+  "license": "MIT"
+}
